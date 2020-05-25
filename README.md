@@ -22,3 +22,8 @@ The follow example shows how:
     
    
 --------
+
+
+If you want to schedule pure SQL jobs:
+
+https://docs.microsoft.com/en-us/sql/ssms/agent/schedule-a-job?view=sql-server-ver15
