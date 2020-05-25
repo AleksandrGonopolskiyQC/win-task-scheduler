@@ -15,7 +15,7 @@ The follow example shows how:
 ------------
 
     ├── demo.py           <- Simple demo app that writes current time in demo.txt in python
-    ├── demo.bat          <- Activates the default miniconda enviroment (or one of your choosing)
+    ├── demo.bat          <- Activates the default miniconda enviroment (or one of your choosing) and executes python
     ├── schedule.py       <- Schedules demo.py to run 30 seconds in the future.
     ├── demo.R            <- Simple demo app that writes current time in demo.R.txt in R 
     └── schedule.R        <- Schedules demo.R to run 30 seconds in the future.
