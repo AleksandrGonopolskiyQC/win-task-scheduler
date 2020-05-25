@@ -23,7 +23,11 @@ The follow example shows how:
    
 --------
 
+Python scheduling using:
+https://github.com/mhammond/pywin32
+
+R task scheduling:
+https://github.com/bnosac/taskscheduleR
 
 If you want to schedule pure SQL jobs:
-
 https://docs.microsoft.com/en-us/sql/ssms/agent/schedule-a-job?view=sql-server-ver15
